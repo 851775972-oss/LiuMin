@@ -1,4 +1,4 @@
-name: bi li bi lg哔哩哔哩 UP主评论监控
+name: 哔哩哔哩 UP主评论监控
 
 on:
   schedule:
